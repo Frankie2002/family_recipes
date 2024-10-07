@@ -1,4 +1,4 @@
-# Family secret recipes
+# Family mysteries recipes
 
 Set of recipes as given by my grandma
 
@@ -8,3 +8,4 @@ Set of recipes as given by my grandma
 * spreads (TODO)
 * [Noodle](./noodle.md)
 * [Pizza](./pizza.md)
+
